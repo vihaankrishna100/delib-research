@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Local secrets
+.env
+
+# SQLite database
+deliberation.db
+
+# Generated per-agent action reports (Feature 2)
+agent_reports/
