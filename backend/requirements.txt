@@ -1,0 +1,10 @@
+fastapi>=0.135
+uvicorn>=0.44
+SQLAlchemy>=2.0
+pydantic>=2.12
+python-dotenv>=1.0
+google-genai>=1.71
+numpy>=2.0
+scipy>=1.14
+scikit-learn>=1.5
+httpx>=0.28
