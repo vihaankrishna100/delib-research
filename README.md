@@ -117,7 +117,8 @@ docs/                     reports, prompts, slides, paper draft (see below)
 | Doc | What's in it |
 |-----|--------------|
 | [docs/FINAL_REPORT.md](docs/FINAL_REPORT.md) | Methodology, results, and limitations |
-| [docs/AGENTS_AND_PROMPTS.md](docs/AGENTS_AND_PROMPTS.md) | Every LLM prompt, verbatim, with file locations |
+| [docs/ALL_PROMPTS.md](docs/ALL_PROMPTS.md) | All LLM prompts combined in one document (generated from source) |
+| [docs/AGENTS_AND_PROMPTS.md](docs/AGENTS_AND_PROMPTS.md) | Narrative walkthrough of the agents and how they fit together |
 | [docs/CHANGES_LOG.md](docs/CHANGES_LOG.md) | Running changelog of fixes and experiments |
 | [docs/PROGRESS_UPDATE.md](docs/PROGRESS_UPDATE.md) | Verified progress notes |
 | [docs/paper/PAPER1_DRAFT.md](docs/paper/PAPER1_DRAFT.md) | Working paper draft |
